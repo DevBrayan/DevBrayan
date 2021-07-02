@@ -15,8 +15,11 @@ algoritimos, sites é o que gosto de fazer.
 
 <div style="display: flex;" >
  <div>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" width="34" height="34">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="jQuery"  width="24" height="24">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" width="35" height="35">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="jQuery"  width="30" height="30">
+  <img src="https://image.flaticon.com/icons/png/512/888/888859.png" alt="Html5"  width="35" height="35">
+  <img src="https://image.flaticon.com/icons/png/512/888/888847.png" alt="CSS3"  width="35" height="35">
+  <img src="https://image.flaticon.com/icons/png/512/919/919836.png" alt="MySQL"  width="30" height="30">
  </div>
 </div>
 
