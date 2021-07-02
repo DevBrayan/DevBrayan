@@ -11,12 +11,13 @@ algoritimos, sites é o que gosto de fazer.
 </p>
 </div>
 
-### Programming Languages 🌐
+### Técnologias 🌐
 
-<div style="display: flex; gap: 10px; align-items: center; width:100%" >
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" width="34" height="34">  
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"  width="24" height="24">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="jQuery"  width="24" height="24">
+<div style="display: flex;" >
+ <div>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" width="34" height="34">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="jQuery"  width="24" height="24">
+ </div>
 </div>
 
 ### Ferramentas 🛠️
