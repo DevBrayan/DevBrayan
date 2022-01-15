@@ -6,8 +6,8 @@
 
 <div>
  <p align="left">
-    Eu sou um estudante na área da informática, me formei em Técnico de Informática em dezembro de 2020 na Escola Salesiana São José, gosto muito de programação e desenvolver
-algoritimos, sites é o que gosto de fazer.
+    Eu sou um estudante na área da informática, me formei em Técnico de Informática em dezembro de 2020 na Escola Salesiana São José, gosto muito de programação, desenvolver
+algoritimos e sites.
 </p>
 </div>
 
